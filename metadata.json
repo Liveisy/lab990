@@ -1,0 +1,19 @@
+{
+  "url": "https://wtr.fitquesthub.com/o6f1pw75is/?cwr=3910300&csr=mediago&adid=24922452&adt=Dementia+Has+Been+Linked+To+a+Common+Food+-+Do+You+Eat+It%3F&adset=24922452&sname=Dementia Has Been Linked To a Common Food - Do You Eat It?&mtrack=t41nu6eyv6yjzedh&time=1755266109&plat=outbrain&cpc=0.0047&pub=Taboola&siteid=359928&cont=articlecwr=3910300&cname={{campaign.name}}&domain={{domain}}&placement={{placement}}&adset={{adset.name}}&adname={{ad.name}}&site={{site_source_name}}&xid=4f3f8m3i&sub1=mediago&sub2=24922452&sub3=Dementia+Has+Been+Linked+To+a+Common+Food+-+Do+You+Eat+It%3F&sub4=24922452&sub5=Dementia Has Been Linked To a Common Food - Do You Eat It?&sub6=3910300&sub7=IQ+Blast+-+CP06&sub8=1755266109&sub9=outbrain&sub10=Taboola&sub11=359928&sub12=Biocare Comercio LTD&ref_id=t41nu6eyv6yjzedh&cost=0.0047",
+  "timestamp": "2025-08-15 15:02:20",
+  "capture_method": "realtime_snapshot_v2",
+  "total_duration": 56.87187361717224,
+  "resources_discovered": 102,
+  "resources_downloaded": 23,
+  "download_total_size": 1874948,
+  "network_requests": 102,
+  "failed_requests": 0,
+  "console_messages": 21,
+  "html_size": 14671,
+  "download_success_rate": 22.54901960784314,
+  "realtime_features": {
+    "path_mappings": 23,
+    "immediate_downloads": 23,
+    "filter_tracking_pixels": true
+  }
+}
